@@ -7,3 +7,5 @@ They use a camera to capture an individual’s face, analyze the facial features
 If a match is found, attendance is recorded. These systems can also adapt to variations in lighting, facial expressions, and aging, ensuring reliability.
 
 
+#SNAPSHOT OF THE PROJECT
+![Screenshot (1)](https://github.com/user-attachments/assets/1b5816f9-7ee3-46e0-9307-475a87a34191)
