@@ -8,4 +8,6 @@ If a match is found, attendance is recorded. These systems can also adapt to var
 
 
 #SNAPSHOT OF THE PROJECT
-![Screenshot (1)](https://github.com/user-attachments/assets/1b5816f9-7ee3-46e0-9307-475a87a34191)
+![Screenshot 2024-08-04 210044](https://github.com/user-attachments/assets/d9a078ce-9f1f-4317-a64a-03ecd60ce8fe)
+
+
